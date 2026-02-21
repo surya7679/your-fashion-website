@@ -1,11 +1,11 @@
 // Mock data for Your Fashion - Clothing Store
 
 export const shopInfo = {
-  name: "Your Fashion",
+  name: "A&S Fashion",
   tagline: "Style That Speaks, Fashion That Fits",
   location: "Bihar, India",
-  phone: "+91 98765 43210",
-  whatsapp: "919876543210",
+  phone: "+91 62642 73885",
+  whatsapp: "916264273885",
   email: "contact@yourfashion.com",
   address: "Shop No. 12, Main Market, Patna, Bihar - 800001",
   openingHours: "Mon-Sat: 10:00 AM - 8:00 PM, Sun: 11:00 AM - 6:00 PM",
